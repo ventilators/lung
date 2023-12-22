@@ -1,0 +1,6 @@
+[wrap-git]
+url         = git@github.com:ventilators/ventilation.git
+revision    = 0f0b553
+
+[provide]
+ventilation = ventilation_dep
